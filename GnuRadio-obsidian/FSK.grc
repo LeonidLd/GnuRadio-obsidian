@@ -249,7 +249,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [632, 216.0]
+    coordinate: [640, 176.0]
     rotation: 0
     state: enabled
 - name: blocks_char_to_float_0
@@ -455,7 +455,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [808, 176.0]
+    coordinate: [816, 152.0]
     rotation: 0
     state: enabled
 - name: digital_binary_slicer_fb_0
